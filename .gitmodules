@@ -32,7 +32,7 @@
 	url = https://github.com/EOSIO/magic_get
 [submodule "externals/aleth"]
 	path = externals/aleth
-	url = https://github.com/learnforpractice/aleth
+	url = https://github.com/learnforpractice/evm4eosio
 [submodule "externals/eosio.contracts"]
 	path = externals/eosio.contracts
 	url = https://github.com/eosio/eosio.contracts
