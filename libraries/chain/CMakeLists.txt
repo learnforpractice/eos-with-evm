@@ -133,6 +133,8 @@ target_include_directories( eosio_chain
                         )
 #add_dependencies(eosio_chain contracts_project)
 add_dependencies(eosio_chain aleth)
+add_dependencies(bios_contract_project aleth)
+
 if("eos-vm-oc" IN_LIST EOSIO_WASM_RUNTIMES)
    target_link_libraries(eosio_chain "-Wl,-wrap=main")
 endif()
