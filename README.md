@@ -16,7 +16,7 @@ brew tap eosio/eosio.cdt
 brew install eosio.cdt
 ```
 
-## Install Solidity
+## Install Solidity 0.6.0
 
 ### Ubuntu 18.04:
 
