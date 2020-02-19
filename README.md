@@ -50,8 +50,7 @@ cd evm4eosio
 ```
 
 # Try It
-Please see readme in https://github.com/learnforpractice/eos-with-evm-demo
-
+Please see readme in https://github.com/learnforpractice/evm4eosio-demo
 
 # License
 
